@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXSpellChecker for TextEdit/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSpellChecker for TextEdit/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXSpellChecker for TextEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXSpellChecker for TextEdit/MainWindow.xaml))
+<!-- default file list end -->
 # How to Configure the DXSpellChecker behavior for the TextEdit control
 
 
