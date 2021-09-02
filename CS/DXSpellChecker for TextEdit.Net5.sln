@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSpellChecker for TextEdit", "DXSpellChecker for TextEdit\DXSpellChecker for TextEdit.csproj", "{1DD63854-9B57-44F9-A09E-33A256EFF227}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSpellChecker for TextEdit", "DXSpellChecker for TextEdit\DXSpellChecker for TextEdit.Net5.csproj", "{1DD63854-9B57-44F9-A09E-33A256EFF227}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
